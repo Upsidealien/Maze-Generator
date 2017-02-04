@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+  background: #FFD1DC;
+  text-align: center;
+}
+div{
+  display: inline-block;
+  margin: 20px auto 0 auto;
+  position: relative;
+}
+canvas{
+  display: block;
+  float: center;
+}
